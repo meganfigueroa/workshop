@@ -1,1 +1,2 @@
 This line was added to 'practice.txt' using '>>' in bash
+This is a new line that I have added good for moi
